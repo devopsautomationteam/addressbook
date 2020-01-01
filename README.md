@@ -1,4 +1,4 @@
-test jenkins intergration
+test jenkins intergration and autotrigger
 test1
 test2 commit
 Arun pipeline
